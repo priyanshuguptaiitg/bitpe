@@ -26,7 +26,7 @@ Steps to use this website locally :
 
 ## Screenshots
 
-![App Screenshot](https://github.com/priyanshuguptaiitg/bitpe/blob/main/finalMedia/1.PNG)
+![App Screenshot](https://github.com/priyanshuguptaiitg/bitpe/blob/main/finalMedia/1.png)
 ![App Screenshot](https://github.com/priyanshuguptaiitg/bitpe/blob/main/finalMedia/2.PNG)
 ![App Screenshot](https://github.com/priyanshuguptaiitg/bitpe/blob/main/finalMedia/3.PNG)
 ![App Screenshot](https://github.com/priyanshuguptaiitg/bitpe/blob/main/finalMedia/4.PNG)
