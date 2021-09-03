@@ -1,0 +1,31 @@
+.site-footer {
+  background-color: #838383;
+  text-align: center;
+  margin: 10px 0;
+  padding: 10px 0;
+}
+#social-wrapper {
+  text-align: center;
+}
+.social-wrapper {
+  text-align: center;
+}
+.social-wrapper ul li {
+  display: inline;
+  margin: 0 5px;
+}
+.icon {
+  margin-top: 0.625em;
+  width: 40px;
+  height: 40px;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+  border-radius: 25px;
+}
+.icon:hover {
+  opacity: 1;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+.footer-nav p {
+  text-align: center;
+}
