@@ -33,7 +33,7 @@ if (isset($_POST['submit'])) {
   <link rel="mask-icon" href="fav/safari-pinned-tab.svg" color="#5bbad5" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="css/signin-up.css">
-  <title>Login Form</title>
+  <title>BitPe: A Wallet of Bitcoins</title>
 </head>
 
 <body>
