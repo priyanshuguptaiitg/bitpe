@@ -23,11 +23,11 @@ Steps to use this website locally :
 - **Database** : MySQL
   1. User Table (that has basic fields such as username, email, passowrd & current balance).
   2. Transaction Table (that records all transactions along with their time).
-- **Hosted on** : Infinity Free ( https://pgupta.me 
+- **Hosted on** : Infinity Free ( https://pgupta.me )
 
 ## Demo
 
-Demo of the Extension : [Click Here](#)
+User Interface of the Website : [Click Here](https://pgupta.me)
 
 ## Contributions and Feedback
 
