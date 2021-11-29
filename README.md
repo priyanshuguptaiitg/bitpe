@@ -1,6 +1,6 @@
 # BitPe : A Wallet of Bitcoins
 
-Basically, this is responsive and dynamic website which can be seen at https://pgupta.me/ or https://remaining-trackers.000webhostapp.com
+Basically, this is responsive and dynamic website which can be seen at https://pgupta.me/ (prefer this) or https://remaining-trackers.000webhostapp.com (secondary)
 
 Steps to use this website locally :
 
